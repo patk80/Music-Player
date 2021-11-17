@@ -1,5 +1,45 @@
 const musicArray = [
     {
+        albumName: "The Dead Flowers",
+        albumArtworkSrc: "img/2020-the-dead-flowers.jpg",
+        albumYear: 2020,
+        artistName: "The Dead Flowers",
+        songFileSrc: "music/The-DeadFlowers/so-damn-easy.mp3",
+        songName: "So Damn Easy"
+    },
+    {
+        albumName: "The Dead Flowers",
+        albumArtworkSrc: "img/2020-the-dead-flowers.jpg",
+        albumYear: 2020,
+        artistName: "The Dead Flowers",
+        songFileSrc: "music/The-DeadFlowers/i-dont-need-anything.mp3",
+        songName: "I Don't Need (Anything)"
+    },
+    {
+        albumName: "The Dead Flowers",
+        albumArtworkSrc: "img/2020-the-dead-flowers.jpg",
+        albumYear: 2020,
+        artistName: "The Dead Flowers",
+        songFileSrc: "music/The-DeadFlowers/delilah-denial.mp3",
+        songName: "Delilah, Denial"
+    },
+    {
+        albumName: "The Dead Flowers",
+        albumArtworkSrc: "img/2020-the-dead-flowers.jpg",
+        albumYear: 2020,
+        artistName: "The Dead Flowers",
+        songFileSrc: "music/The-DeadFlowers/what-im-lookin-for.mp3",
+        songName: "What I'm Lookin' For"
+    },
+    {
+        albumName: "The Dead Flowers",
+        albumArtworkSrc: "img/2020-the-dead-flowers.jpg",
+        albumYear: 2020,
+        artistName: "The Dead Flowers",
+        songFileSrc: "music/The-DeadFlowers/passing-time",
+        songName: "Passing Time"
+    },
+    {
         albumName: "AL",
         albumArtworkSrc: "img/2017-al.jpg",
         albumYear: 2017,
@@ -39,4 +79,68 @@ const musicArray = [
         songFileSrc: "music/AL/c.c..mp3",
         songName: "C.C."
     },
+    {
+        albumName: "Mountain House Blues",
+        albumArtworkSrc: "img/2016-mountain-house-blues.jpg",
+        albumYear: 2016,
+        artistName: "The Dead Flowers",
+        songFileSrc: "music/Mountain-House-Blues/see-me-again.mp3",
+        songName: "See Me Again"
+    },
+    {
+        albumName: "Mountain House Blues",
+        albumArtworkSrc: "img/2016-mountain-house-blues.jpg",
+        albumYear: 2016,
+        artistName: "The Dead Flowers",
+        songFileSrc: "music/Mountain-House-Blues/radio.mp3",
+        songName: "Radio"
+    },
+    {
+        albumName: "Mountain House Blues",
+        albumArtworkSrc: "img/2016-mountain-house-blues.jpg",
+        albumYear: 2016,
+        artistName: "The Dead Flowers",
+        songFileSrc: "music/Mountain-House-Blues/give-it-up.mp3",
+        songName: "Give It Up"
+    },
+    {
+        albumName: "Mountain House Blues",
+        albumArtworkSrc: "img/2016-mountain-house-blues.jpg",
+        albumYear: 2016,
+        artistName: "The Dead Flowers",
+        songFileSrc: "music/Mountain-House-Blues/mountain-house-blues-pt-i-and-ii.mp3",
+        songName: "Mountain House Blues (pt I & II)"
+    },
+    {
+        albumName: "The Dead Flowers [EP]",
+        albumArtworkSrc: "img/2015-the-dead-flowers-ep.jpg",
+        albumYear: 2015,
+        artistName: "The Dead Flowers",
+        songFileSrc: "music/The-Dead-Flowers-EP/westbound.mp3",
+        songName: "Westbound"
+    },
+    {
+        albumName: "The Dead Flowers [EP]",
+        albumArtworkSrc: "img/2015-the-dead-flowers-ep.jpg",
+        albumYear: 2015,
+        artistName: "The Dead Flowers",
+        songFileSrc: "music/The-Dead-Flowers-EP/hollow-ground.mp3",
+        songName: "Hollow Ground"
+    },
+    {
+        albumName: "The Dead Flowers [EP]",
+        albumArtworkSrc: "img/2015-the-dead-flowers-ep.jpg",
+        albumYear: 2015,
+        artistName: "The Dead Flowers",
+        songFileSrc: "music/The-Dead-Flowers-EP/holly-mae.mp3",
+        songName: "Holly Mae"
+    },
+    {
+        albumName: "The Dead Flowers [EP]",
+        albumArtworkSrc: "img/2015-the-dead-flowers-ep.jpg",
+        albumYear: 2015,
+        artistName: "The Dead Flowers",
+        songFileSrc: "music/The-Dead-Flowers-EP/one-more-saturday-night.mp3",
+        songName: "One More Saturday Night"
+    }
 ];
