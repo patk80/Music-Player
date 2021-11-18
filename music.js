@@ -4,7 +4,7 @@ const musicArray = [
         albumArtworkSrc: "img/2020-the-dead-flowers.jpg",
         albumYear: 2020,
         artistName: "The Dead Flowers",
-        songFileSrc: "music/The-DeadFlowers/so-damn-easy.mp3",
+        songFileSrc: "music/The-Dead-Flowers/so-damn-easy.mp3",
         songName: "So Damn Easy"
     },
     {
@@ -12,7 +12,7 @@ const musicArray = [
         albumArtworkSrc: "img/2020-the-dead-flowers.jpg",
         albumYear: 2020,
         artistName: "The Dead Flowers",
-        songFileSrc: "music/The-DeadFlowers/i-dont-need-anything.mp3",
+        songFileSrc: "music/The-Dead-Flowers/i-dont-need-anything.mp3",
         songName: "I Don't Need (Anything)"
     },
     {
@@ -20,7 +20,7 @@ const musicArray = [
         albumArtworkSrc: "img/2020-the-dead-flowers.jpg",
         albumYear: 2020,
         artistName: "The Dead Flowers",
-        songFileSrc: "music/The-DeadFlowers/delilah-denial.mp3",
+        songFileSrc: "music/The-Dead-Flowers/delilah-denial.mp3",
         songName: "Delilah, Denial"
     },
     {
@@ -28,7 +28,7 @@ const musicArray = [
         albumArtworkSrc: "img/2020-the-dead-flowers.jpg",
         albumYear: 2020,
         artistName: "The Dead Flowers",
-        songFileSrc: "music/The-DeadFlowers/what-im-lookin-for.mp3",
+        songFileSrc: "music/The-Dead-Flowers/what-im-lookin-for.mp3",
         songName: "What I'm Lookin' For"
     },
     {
@@ -36,7 +36,7 @@ const musicArray = [
         albumArtworkSrc: "img/2020-the-dead-flowers.jpg",
         albumYear: 2020,
         artistName: "The Dead Flowers",
-        songFileSrc: "music/The-DeadFlowers/passing-time",
+        songFileSrc: "music/The-Dead-Flowers/passing-time.mp3",
         songName: "Passing Time"
     },
     {
