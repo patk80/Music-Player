@@ -1,6 +1,7 @@
-let albumArtwork = document.querySelector("#album-artwork");
-let songName     = document.querySelector("#song-name");
-let artistName   = document.querySelector("#artist-name");
+let albumArtwork  = document.querySelector("#album-artwork");
+let songName      = document.querySelector("#song-name");
+let artistName    = document.querySelector("#artist-name");
+let musicSource   = document.querySelector("#music-source");
 
 function randomSong() {
     let randomIndex      = Math.floor( Math.random() * musicArray.length );
